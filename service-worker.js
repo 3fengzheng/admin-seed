@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/admin-seed/precache-manifest.749d89c424e66a35837d521949365a83.js"
+  "/admin-seed/precache-manifest.091f7717b646620225eb85fbc33b3ada.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "seed-project"});
